@@ -81,4 +81,4 @@ Distributed under the ISC License. See `LICENSE` for more information.
 
 ---
 
-*Crafted with ⚡ by [[YOUR_NAME]](https://github.com/[YOUR_GITHUB_USERNAME])*
+*Crafted with ⚡ by nandini khandelwal*
